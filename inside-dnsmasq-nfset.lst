@@ -1,4 +1,9 @@
 nftset=/.ua/4#inet#fw4#vpn_domains
+nftset=/.byteoversea.net/4#inet#fw4#vpn_domains
+nftset=/.byteoversea.com/4#inet#fw4#vpn_domains
+nftset=/.ibyteimg.com/4#inet#fw4#vpn_domains
+nftset=/.ibytedtos.com/4#inet#fw4#vpn_domains
+nftset=/.bytefcdn-oversea.com/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/24.kg/4#inet#fw4#vpn_domains
